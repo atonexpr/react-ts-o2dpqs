@@ -1,0 +1,20 @@
+{
+  "name": "react-ts-d4toch",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest"
+  }
+}
